@@ -1,4 +1,4 @@
 # springcloud-tutoiral
 
 ## eureka-server,eureka-client
-	eureka....(server)
+	eureka....(server,client)
